@@ -1,2 +1,2 @@
 # EnthralGame
-Some weird game
+Some weird pixelated game in Unity
