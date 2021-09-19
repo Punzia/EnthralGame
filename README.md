@@ -1,2 +1,2 @@
 # EnthralGame
-Some weird pixelated game in Unity
+A 2D Adventure game with pixelated graphics
